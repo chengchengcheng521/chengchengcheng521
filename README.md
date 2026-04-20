@@ -1,16 +1,17 @@
 # Hi 👋, I'm ChengHaishang
 
-### Software Engineering Undergraduate @ BUAA | Full-Stack & AI Developer
+### Software Engineering Undergraduate @ BUAA | AI Developer (LLM Agents & Multi-modal) -> AI Infra & Embodied AI
 
-- 🔭 I'm currently working on **LLM Agent workflows for software requirements analysis**
+- 🔭 I'm currently working on **LLM Agent workflows for software requirements analysis**, and expanding my focus towards **AI Infrastructure & Embodied AI**.
 
-- 🌱 I'm currently learning **Advanced techniques in AI for Software Engineering, Advanced techniques in multi-modal alignment (Graph-Text) and deep learning with PyTorch.**
+- 🌱 I'm currently learning **advanced techniques in multi-modal alignment (Graph-Text)** and deep learning with PyTorch, alongside **CUDA, efficient model deployment, and Robot Learning**.
 
-- 💬 Ask me about **Full-stack development (Java, Python,C++), LLM Agent design, RAG systems, and PyTorch.**
+- 💬 Ask me about **LLM Agent design, RAG systems, Multi-modal alignment, PyTorch**, and my learning journey in **AI Infra & Embodied AI systems**.
 
-- 📫 How to reach me **22377130@buaa.edu.cn**
+- 📫 How to reach me: [22377130@buaa.edu.cn](mailto:22377130@buaa.edu.cn)
 
-- ⚡ Fun fact **When I'm not coding, you can find me running long distances, working out at the gym, or taking photos! 🏃‍♂️📸**
+- ⚡ Fun fact: When I'm not coding, you can find me running long distances, working out at the gym, or taking photos! 🏃‍♂️ 📸
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
